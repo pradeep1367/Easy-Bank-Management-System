@@ -1,4 +1,4 @@
-# Easy-Bank-Management-System
+# 🏦 Easy-Bank-Management-System
 ---
 # 📌 Overview :-
 The Bank Management System is a Java-based 3-tier dynamic web application designed to simplify banking operations. Built using Servlets and JSP, this system provides :- <br>
