@@ -9,9 +9,9 @@ The Bank Management System is a Java-based 3-tier dynamic web application design
 ✅ Deposit & Withdraw Funds – Manage financial transactions smoothly.<br>
 ✅ Check Balance & Transaction History – View account details in real time.<br>
 ✅ Admin Control – Manage users and update their status as Active/Inactive.<br>
----
+
 The system follows a Service and DAO (Data Access Object) layer to ensure efficient and secure database operations.
----
+
 # 🚀 Features :-
 ✨ User Authentication: Secure login using an auto-generated Customer ID.<br>
 ✨ Account Management: Users can create either a Savings or Current account.<br>
